@@ -1,0 +1,6 @@
+cohere==5.15
+pandas
+matplotlib
+seaborn
+tqdm
+pytest
