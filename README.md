@@ -16,7 +16,7 @@ Summarize results and visualize key trends.
 ---
 
 ## Project Structure
-
+```
 GenAI_Project/
 │
 ├── README.md                       # This file
@@ -30,7 +30,7 @@ GenAI_Project/
 ├── GenAI_Code.pdf                  # PDF export of the code
 ├── analyzed_transcripts.csv        # Final processed results (CSV)
 └── GenAI_Presentation.pdf          # Slides for stakeholder presentation
-
+```
 
 ---
 
